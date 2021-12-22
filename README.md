@@ -1,4 +1,14 @@
-### Hi there 👋
+Howdy, I'm Feras 👋
+======
+
+Welcome to my GitHub! Listed are some of my highlight projects ✨:
+
+- [MatchMaker Bot](https://github.com/feraskhemakhem/MatchMaker) is a discord bot designed to create and balance teams playing in custom lobbies. The reason I made this software was to make my experience in 10-man Valorant servers smoother, creating teams in a non-biased way with variety in case players wish to mix-up teams. The software registers users' competitive ranks upon joining a server. When players want to create a custom lobby, the bot collects the players and creates pseudo-random balanced teams for the lobby. Current functionality is compatible with Valorant, with League of Legends and Overwatch 2 as in plans for future incorporation. This is unique to Valorant's auto-balance feature for custom lobbies as MatchMaker supports less players and can create a variety of balanced teams (as opposed to just the most optimal team). In addition, MatchMaker indiciates which team has an advantage, making it more fair when picking map/side.
+
+
+Here are some more stats about me if you're curious 🤔:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feraskhemakhem&layout=compact)](https://github.com/feraskhemakhem)
 
 <!--
 **feraskhemakhem/feraskhemakhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
