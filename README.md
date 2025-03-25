@@ -4,10 +4,10 @@ Howdy, I'm Feras 👋
 <!-- (Include LinkedIn and Website here) -->
 
 Welcome to my GitHub! Here are some quick facts about me ⚡:
-- Master's student at Texas A&M University, studying Computer Science with a focus in Computer Graphics
-- Game developer at the [LIVE Lab](https://www.arch.tamu.edu/viz/research-creative-works/learning-interactive-visualization-experience-live-lab/) in the Department of Visualization
+- Software Engineer at Microsoft for 2+ years, working on virtual immersive meetings for Teams
+- Graduated from Texas A&M University with a Master's in Computer Science, focusing on Computer Graphics and rendering
 - Avid game developer and player 🎮, [mechanical keyboard enthusiast](https://www.reddit.com/r/MechanicalKeyboards/) ⌨️, musician 🎹, and foodie 🧋🥘
-- Currently seeking an early career fulltime job in Game Development, Computer Graphics, or Software Engineering
+- Currently seeking an early-mid career fulltime job in Game Development, Computer Graphics, or Software Engineering
 <!-- - My GitHub is only a starting place! Most of my games are not here, but you can find my best games on [itch.io](itch.io/dashboard) -->
 
 Here are some of my highlight projects ✨:
