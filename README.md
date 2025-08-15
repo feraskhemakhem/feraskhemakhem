@@ -4,7 +4,7 @@ Howdy, I'm Feras 👋
 <!-- (Include LinkedIn and Website here) -->
 
 Welcome to my GitHub! Here are some quick facts about me ⚡:
-- Software Engineer at Microsoft for 2+ years, working on virtual immersive meetings for Teams
+- Former software Engineer at Microsoft for 2.5+ years, working on virtual immersive meetings for Teams
 - Graduated from Texas A&M University with a Master's in Computer Science, focusing on Computer Graphics and rendering
 - Avid game developer and player 🎮, [mechanical keyboard enthusiast](https://www.reddit.com/r/MechanicalKeyboards/) ⌨️, musician 🎹, and foodie 🧋🥘
 - Currently seeking an early-mid career fulltime job in Game Development, Computer Graphics, or Software Engineering
