@@ -26,7 +26,7 @@ Some projects currently in the works to keep an eye out for 🔨:
 - [Yue](https://github.com/feraskhemakhem/Yue)<br>
   The beginnings of my own game engine, which will include a renderer with DirectX and Vulkan implementation, an event system, input polling, and so much more to come.
 
-- [Cubed](https://github.com/feraskhemakhem/Cubed)<br>
+- [Cubed](https://github.com/feraskhemakhem/CubedGame)<br>
   A sandbox 3D game made in C++ and Vulkan. It's mostly a fun experiment to learn Vulkan, implement Steam networking, and integrate open source libraries like [ImGui](https://github.com/ocornut/imgui) and [Walnut](https://github.com/StudioCherno/Walnut).
   
 If you want a tl;dr on my GitHub activity, are some stats 🤔:
