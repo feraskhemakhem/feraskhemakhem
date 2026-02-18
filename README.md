@@ -13,6 +13,9 @@ Welcome to my GitHub! Here are some quick facts about me ⚡:
 
 Here are some of my highlight projects ✨:
 
+- [Cubed](https://github.com/feraskhemakhem/CubedGame)<br>
+  A sandbox 3D game made in C++ and Vulkan. It's mostly a fun experiment to learn Vulkan, implement Steam networking, and integrate open source libraries like [ImGui](https://github.com/ocornut/imgui) and [Walnut](https://github.com/StudioCherno/Walnut).
+
 - [MatchMaker Bot](https://github.com/feraskhemakhem/MatchMaker)<br>
   A discord bot designed to create and balance teams playing in custom Valorant lobbies, written mostly in JavaScript with Discord.js. Documentation provides integration steps.
 
@@ -23,11 +26,9 @@ Here are some of my highlight projects ✨:
   A classifier that determines if a user has COVID based on chest X-rays, developed in Python and trained using Machine Learning. This is a group project, but I specifically worked on pre-processing images and implementing multiple feature selection method to create the best feature set.
 
 Some projects currently in the works to keep an eye out for 🔨:
+
 - [Yue](https://github.com/feraskhemakhem/Yue)<br>
   The beginnings of my own game engine, which will include a renderer with DirectX and Vulkan implementation, an event system, input polling, and so much more to come.
-
-- [Cubed](https://github.com/feraskhemakhem/CubedGame)<br>
-  A sandbox 3D game made in C++ and Vulkan. It's mostly a fun experiment to learn Vulkan, implement Steam networking, and integrate open source libraries like [ImGui](https://github.com/ocornut/imgui) and [Walnut](https://github.com/StudioCherno/Walnut).
   
 If you want a tl;dr on my GitHub activity, are some stats 🤔:
 
