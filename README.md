@@ -29,7 +29,3 @@ Some projects currently in the works to keep an eye out for 🔨:
 
 - Yue (currently private)
   The beginnings of my own game engine, which will include a renderer with DirectX and Vulkan implementation, an event system, input polling, and so much more to come.
-  
-If you want a tl;dr on my GitHub activity, are some stats 🤔:
-
-![Feras' GitHub stats](https://github-readme-stats.vercel.app/api?username=feraskhemakhem&show_icons=true&theme=radical)
