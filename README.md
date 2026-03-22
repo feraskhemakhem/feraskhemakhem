@@ -23,7 +23,7 @@ Here are some of my highlight projects ✨:
   A file converting and exporting extension of Blender, written in C++ and Python. Brender supports unique file formats like arrays of objects, which some animators have an easier time exporting from other softwares than other formats. Also forked by the Blender Foundation.
 
 - [X-ray COVID Classifier](https://github.com/jeff-hykin/x-flow-team)<br>
-  A classifier that determines if a user has COVID based on chest X-rays, developed in Python and trained using Machine Learning. This is a group project, but I specifically worked on pre-processing images and implementing multiple feature selection method to create the best feature set.
+  A classifier that determines if a user has COVID based on chest X-rays, developed in Python and trained using Machine Learning. This is a group project, but I specifically worked on pre-processing images and implementing multiple feature selection methods to create the best feature set.
 
 Some projects currently in the works to keep an eye out for 🔨:
 
@@ -32,4 +32,4 @@ Some projects currently in the works to keep an eye out for 🔨:
   
 If you want a tl;dr on my GitHub activity, are some stats 🤔:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feraskhemakhem&layout=compact)](https://github.com/feraskhemakhem)
+![Feras' GitHub stats](https://github-readme-stats.vercel.app/api?username=feraskhemakhem&show_icons=true&theme=radical)
